@@ -1,6 +1,5 @@
 # ce7
 Class Evaluation-7 :  Responsive Homepage Layout with CSS Grid and Flexbox
-# login_form_ce4
 
 <h1 align="center">📚 Class Evaluation - 7</h1>
 
@@ -28,7 +27,7 @@ This repository contains my work for the evaluation, showcasing my progress and 
 ---
 ## 🖼️ Preview / ScreenShot
 
-![Project Preview]()
+![Project Preview](ss.png)
 
 ---
 
