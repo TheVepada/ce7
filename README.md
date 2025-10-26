@@ -27,7 +27,7 @@ This repository contains my work for the evaluation, showcasing my progress and 
 ---
 ## 🖼️ Preview / ScreenShot
 
-![Project Preview](ss.png)
+![Project Preview](images/ss.png)
 
 ---
 
